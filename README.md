@@ -1,2 +1,2 @@
 # Web4
-Web4: the web's reformation period
+The web's reformation period
